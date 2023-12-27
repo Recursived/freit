@@ -1,5 +1,9 @@
 # FREIT
 
+## Description
+FREIT is a Typescript customizable rendering engine. It can be interface with any web UI framework such as React, Vue, Remix, Svelte...
+
+Made to be independent and autonomous and highly customamizable / extensible
 ## Specification for the project
 
 - [ ] Extensible
